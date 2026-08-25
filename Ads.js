@@ -30,6 +30,16 @@ const projetos = [
         link: "#"
     },
     {
+        titulo: "Projeto 03",
+
+        imagem: "https://placehold.co/800x500/1e1e1e/ffffff?text=Projeto+03",
+
+        descricao:
+            "Descrição do segundo projeto. Você poderá substituir este conteúdo pelas informações do seu projeto.",
+
+        link: "#"
+    },
+    {
         titulo: "Projeto 04",
 
         imagem: "https://placehold.co/800x500/1e1e1e/ffffff?text=Projeto+04",
