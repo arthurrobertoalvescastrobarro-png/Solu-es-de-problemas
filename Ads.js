@@ -19,8 +19,6 @@ const projetos = [
 
         link: "#"
     },
-
-
     {
         titulo: "Projeto 02",
 
@@ -30,7 +28,37 @@ const projetos = [
             "Descrição do segundo projeto. Você poderá substituir este conteúdo pelas informações do seu projeto.",
 
         link: "#"
-    }
+    },
+    {
+        titulo: "Projeto 04",
+
+        imagem: "https://placehold.co/800x500/1e1e1e/ffffff?text=Projeto+04",
+
+        descricao:
+            "Descrição do segundo projeto. Você poderá substituir este conteúdo pelas informações do seu projeto.",
+
+        link: "#"
+    },
+    {
+        titulo: "Projeto 05",
+
+        imagem: "https://placehold.co/800x500/1e1e1e/ffffff?text=Projeto+05",
+
+        descricao:
+            "Descrição do segundo projeto. Você poderá substituir este conteúdo pelas informações do seu projeto.",
+
+        link: "#"
+    },
+    {
+        titulo: "Projeto 06",
+
+        imagem: "https://placehold.co/800x500/1e1e1e/ffffff?text=Projeto+06",
+
+        descricao:
+            "Descrição do segundo projeto. Você poderá substituir este conteúdo pelas informações do seu projeto.",
+
+        link: "#"
+    },
 
 ];
 
